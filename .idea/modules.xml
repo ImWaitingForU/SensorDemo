@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CloseOrClose/CloseOrClose.iml" filepath="$PROJECT_DIR$/CloseOrClose/CloseOrClose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Compass/Compass.iml" filepath="$PROJECT_DIR$/Compass/Compass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SensorDemo.iml" filepath="$PROJECT_DIR$/SensorDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShakeToRecorder/ShakeToRecorder.iml" filepath="$PROJECT_DIR$/ShakeToRecorder/ShakeToRecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShakeToRecorder/app.iml" filepath="$PROJECT_DIR$/ShakeToRecorder/app.iml" />
+    </modules>
+  </component>
+</project>
